@@ -53,7 +53,7 @@ img {
     font-family: inherit;
     font-size: inherit;
     cursor: pointer;
-    text-emphasis-color: var(--dark-color);
+    color: #333;
 }
 
 .btn:hover {
