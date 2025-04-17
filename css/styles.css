@@ -53,6 +53,7 @@ img {
     font-family: inherit;
     font-size: inherit;
     cursor: pointer;
+    text-emphasis-color: var(--dark-color);
 }
 
 .btn:hover {
@@ -248,7 +249,7 @@ img {
     outline: 0;
 }
 
-.contact button {
+.contact .btn {
     width: 100%;
 }
 
